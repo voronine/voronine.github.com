@@ -1,0 +1,48 @@
+{
+    "header": {
+        "siteTitle": "Currency Converter",
+        "language": "Language"
+    },
+    "nav": {
+        "home": "Home",
+        "contacts": "Contacs",
+        "news": "News",
+        "profile": "Profile",
+        "login": "Login",
+        "logout": "Exit"
+    },
+    "footer": {
+        "copy": "© 2023 Currency Converter",
+        "links": {
+            "privacyPolicy": "Privacy Policy",
+            "termsOfUse": "Terms of Use"
+        }
+    },
+    "rate": {
+        "title": "Exchange Rates",
+        "table": {
+            "currency": "Currency",
+            "rate": "Rate"
+        }
+    },
+    "about": {
+        "title": "About Us",
+        "text": "We are a team of professionals who are passionate about providing the best currency conversion service to our customers."
+    },
+    "news": {
+        "readMore": "Read more",
+        "delete": "Delete",
+        "loading": "Loading...",
+        "loadMore": "Load more"
+    },
+    "login": {
+        "h1": "Authorization",
+        "authorization": "Come in",
+        "user": "User",
+        "password": "Password"
+    },
+    "profile": {
+        "h1": "Profile",
+        "user": "User"
+    }
+}

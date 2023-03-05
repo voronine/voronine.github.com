@@ -1,0 +1,45 @@
+.rate {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.block {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-top: 1px solid #487922;
+    background: #ededed;
+}
+
+.block div {
+    margin-bottom: 20px;
+}
+
+.block .currency-in,
+.block .currency-out {
+    font-family: monospace;
+    font-size: 1.5rem;
+    text-align: right;
+    color: #487922;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 50px;
+}
+
+.flex-item {
+    flex: 1 1 auto;
+}
+
+.currency-name {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
